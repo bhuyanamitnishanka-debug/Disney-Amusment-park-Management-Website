@@ -1,0 +1,6 @@
+{
+  "name": "Disney Park Navigator & Marvel Merch Hub",
+  "description": "Interactive animated amusement park management dashboard with live ride operations, Trip Planner with wait-time route optimization, social media sharing for park memories and loyalty redemptions across simulated platforms, D3.js real-time crowd density heatmap, 5-day weather telemetry, Disney & Marvel superhero toy sailing store, Loyalty Rewards Market, and Daily Park Challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
